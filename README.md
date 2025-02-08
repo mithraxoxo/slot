@@ -27,7 +27,7 @@ Execute the program using runserver command.
 <!DOCTYPE html>
 <html>
 <head>
-    <title>SLOT TIME TABLE - PRAVEEN CK(23009864)</title>
+    <title>SLOT TIME TABLE - MADHU MITRA M(2100487)</title>
     <style>
         table {
             border-collapse: collapse;
@@ -52,7 +52,7 @@ Execute the program using runserver command.
 <body>
   <img src="logo.jpg" width="100%" height="250px">
   <div class="center-text">
-    <p>SLOT TIME TABLE - PRAVEEN CK (23009864)</p>
+    <p>SLOT TIME TABLE - MADHU MITRA M(2100487</p>
   </div>
     <table>
         <tr>
@@ -98,7 +98,7 @@ Execute the program using runserver command.
         </tr>
     </table>
 <head>
-    <title>SLOT TIME TABLE - jeevanesh (23013802)</title>
+    <title>SLOT TIME TABLE - MADHU MITRA M(2100487</title>
     <style>
         table {
             border-collapse: collapse;
